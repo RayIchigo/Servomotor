@@ -4,7 +4,7 @@ This project demonstrates how to control **two servo motors** to rotate in **opp
 
 ## 📷 Circuit Diagram
 
-![Circuit Diagram](./circuit_diagram.png) 
+![Circuit Diagram](servomotor.png) 
 
 ## 🛠️ Components
 
